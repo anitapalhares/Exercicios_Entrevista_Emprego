@@ -19,3 +19,5 @@ print(segundo_maior([10, 20, 4, 45, 99, 99]))
 # Saída esperada: 45
 
 
+6 exe total
+
