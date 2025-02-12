@@ -1,9 +1,6 @@
 # Exercicios_Entrevista_Emprego
 
-Video de 1h do pythonando
-
-
-
+Video de 1h do pythonando entre outros
 
 3. Encontrar o Segundo Maior Número (Tempo sugerido: 10 minutos)
 
@@ -16,8 +13,6 @@ def segundo_maior(lista):
     lista.sort(reverse=True)  # Ordenando em ordem decrescente
     return lista[1] if len(lista) > 1 else None
 print(segundo_maior([10, 20, 4, 45, 99, 99]))
-# Saída esperada: 45
-
+Saída esperada: 45
 
 6 exe total
-
